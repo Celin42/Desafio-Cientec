@@ -62,11 +62,11 @@ Se o cidadão existir, ele será exibido na tela.
 Clique em "Limpar Resultado" para resetar a busca.
 
 ## 🛠️ Melhorias Implementadas
-✅ Máscara automática no CPF (000.000.000-00)
-✅ Validação de CPF antes do cadastro
-✅ Busca por CPF e Nome
-✅ Feedback visual para erros e sucesso
-✅ Layout responsivo e estilizado
+- ✅ Máscara automática no CPF (000.000.000-00)
+- ✅ Validação de CPF antes do cadastro
+- ✅ Busca por CPF e Nome
+- ✅ Feedback visual para erros e sucesso
+- ✅ Layout responsivo e estilizado
 
 ## 📌 Contato
 Caso tenha dúvidas, entre em contato!
